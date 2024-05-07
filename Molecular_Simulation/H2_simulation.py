@@ -1,4 +1,4 @@
-import qiskit
+`import qiskit
 import numpy as np
 import qiskit_nature
 from qiskit import Aer
@@ -11,7 +11,7 @@ from qiskit.visualization import *
 from qiskit_aer import AerSimulator
 from warnings import filterwarnings
 from qiskit_nature.drivers import Molecule
-from qiskit_nature.settings import settings
+from qiskit_nature import settings
 import qiskit_nature.drivers.second_quantization
 import qiskit_nature.problems.second_quantization
 import qiskit_nature.transformers.second_quantization.electronic

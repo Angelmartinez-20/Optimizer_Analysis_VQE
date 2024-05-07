@@ -3,10 +3,10 @@ import numpy as np
 import qiskit_nature
 from qiskit import Aer
 import matplotlib.pyplot as plt
-import qiskit_nature.algorithms
+#import qiskit_nature.algorithms
 from qiskit.algorithms import VQE
-from ibm_quantum_widgets import *
-from qiskit.tools.jupyter import *
+#from ibm_quantum_widgets import *
+#from qiskit.tools.jupyter import *
 from qiskit.visualization import *
 from qiskit_aer import AerSimulator
 from warnings import filterwarnings
